@@ -16,6 +16,7 @@ using RunCat365.Properties;
 
 namespace RunCat365
 {
+   //这里是主题切换，共设置三种主题
     enum Theme
     {
         System,
